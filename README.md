@@ -3,7 +3,6 @@
 
 ###### Base URL: **https://parrotapi-mu.vercel.app**
 
-<div align=center>
 
 | Express Routes | Works? |
 |----------|----------|
