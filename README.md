@@ -1,6 +1,6 @@
 # the-parrot-api
 
-<img src="https://skillicons.dev/icons?i=vercel,express,env" alt="web dev" height="40"/>
+<img src="https://skillicons.dev/icons?i=vercel,express,dotenv" alt="web dev" height="40"/>
 
 ###### Base URL: **https://parrotapi-mu.vercel.app**
 
