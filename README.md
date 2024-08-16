@@ -1,3 +1,5 @@
+<div align=center>
+
 | Express Routes | Works? |
 |----------|----------|
 | `/api/parrot/random`|  ✔️  |
