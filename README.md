@@ -1,7 +1,7 @@
-| Paths | Works? |
+| Express Routes | Works? |
 |----------|----------|
 | `/api/parrot/random`|  ✔️  |
-| Row 2   | Row 2   |
-| Row 3   | Row 3   |
-| Row 4   | Row 4   |
-| Row 5   | Row 5   |
+| `/api/parrot/all` | ✔️   |
+| `/api/parrot/repo/:repo` | ✖️   |
+| `/api/parrot/count` | ✔️ |
+|`/api/parrot/random/:repo` | ✖️ |
